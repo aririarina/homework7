@@ -1,0 +1,15 @@
+C:\education\programming languages\hw7\homework7\bin\Debug\net6.0\homework7.exe
+C:\education\programming languages\hw7\homework7\bin\Debug\net6.0\homework7.deps.json
+C:\education\programming languages\hw7\homework7\bin\Debug\net6.0\homework7.runtimeconfig.json
+C:\education\programming languages\hw7\homework7\bin\Debug\net6.0\homework7.dll
+C:\education\programming languages\hw7\homework7\bin\Debug\net6.0\homework7.pdb
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\homework7.csproj.AssemblyReference.cache
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\homework7.AssemblyInfoInputs.cache
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\homework7.AssemblyInfo.cs
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\homework7.csproj.CoreCompileInputs.cache
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\homework7.dll
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\refint\homework7.dll
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\homework7.pdb
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\homework7.genruntimeconfig.cache
+C:\education\programming languages\hw7\homework7\obj\Debug\net6.0\ref\homework7.dll
